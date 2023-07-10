@@ -1,6 +1,7 @@
 # Jokes
 jokes for programers
 ```python
+Inference: https://github.com/HildaM/DiseaseShow
  ## nobugprotecting
 /**
  *        ┏┓　　┏┓+ +
