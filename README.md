@@ -20,7 +20,7 @@ Inference: https://github.com/HildaM/DiseaseShow
  * 　　　　　┃　　　┃
  * 　　　　　┃　　　┃　　+　　　　　　　　　
  * 　　　　　┃　 　　┗━━━┓ + +
- * 　　　　　┃ 　　　　　　　┣┓~~~
+ * 　　　　　┃ 　　　　　　　┣┓_~~~~
  * 　　　　　┃ 　　　　　　　┏┛
  * 　　　　　┗┓┓┏━┳┓┏┛ + + + +
  * 　　　　 　┃┫┫ ┃┫┫
